@@ -130,4 +130,4 @@ flowchart LR
 
 - Do I need Firestore in the first version, or would local storage be enough for the planned workout times?
 
-- If I use Firestore, what is the simplest appropriate way to secure my personal data?
+- If I use Firestore, what is the simplest appropriate way to secure my personal data?# lift-off
