@@ -47,7 +47,7 @@ I need **[to** **stop cancelling going to the gym]** because **[I want to be hea
 
 When I’ve already worked a shift and finished class in the afternoon, I struggle to follow through with going to the gym when I’m already tired and depleted. This happens about 3 days per week, and I end up canceling instead of working out. This costs me guilt, because I feel like I’m not disciplined or consistent enough, and that makes me feel like I’m falling behind on my goals. This happens because I’m already stretched thin by work and school, and I don’t have enough time or energy left to overcome the friction of going to the gym. Right now I stay home or go back to work instead, but that feels easier in the moment and only leaves me feeling worse later because it keeps me inconsistent. 
 
-I’ll know this is solved when I can go to the gym 4 times a week for 3 months, including after work and class, and feel like I’m moving toward my health goals.
+I’ll know this is solved when I go to the gym four times a week for three consecutive months, including after work and class, and feel I’m making progress toward my health goals.
 
 *Check: none of these words appear: app, website, platform, dashboard, tool, AI, track, automate, notify, feature.*
 
