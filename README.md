@@ -147,6 +147,8 @@ flowchart LR
 
 The app has been run on macOS and iPhone. The local reminder flow has been tested on iPhone, and Apple Watch delivery has been verified with the paired devices.
 
+**Demo video:** [Watch the Lift Off app demo](docs/lift-off-demo.mov)
+
 1. Open Lift Off and choose **Schedule a workout**.
 2. Select a future date and time; show that the workout appears in the list.
 3. Use a workout’s actions menu to reschedule or delete it.
